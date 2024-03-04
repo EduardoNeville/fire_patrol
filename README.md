@@ -1,10 +1,17 @@
-# Fire Patrol
+# :heart: :mountain: :eyes:  Fire Patrol :heart: :mountain: :eyes:
 
 ## What are we?
 
 We are a student lead project with the objective of helping prevent wildfires in the world.
 
 The project is divided between two courses taught at EPFL; Making Inteligent Things and Software Enterprise.
+
+## :heart: What we want :heart:
+
+![Beautiful Valley](./public/images/valleAsturias.jpg)
+
+## :no_entry_sign: What we will prevent! :no_entry_sign:
+![Valley On Fire](./public/images/fireOnMountain.jpg)
 
 ## What are our objectives?
 
